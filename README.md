@@ -18,7 +18,16 @@ Esto construirá y levantará automáticamente el backend y el frontend.
 - El backend estará disponible en: http://localhost:4000
 - El frontend estará disponible en: http://localhost:5173
 
-Los usuarios de prueba se crean automáticamente con la contraseña `123456`.
+
+## Usuarios de prueba
+
+Todos los usuarios tienen la contraseña: `123456`
+
+| Rol         | Usuario                | Correo                | Contraseña |
+|-------------|------------------------|-----------------------|------------|
+| Administrador | Admin                 | admin@demo.com        | 123456     |
+| EPS         | EPS                    | eps@demo.com          | 123456     |
+| Abogado     | Abogado                | abogado@demo.com      | 123456     |
 
 ## Detener los servicios
 
